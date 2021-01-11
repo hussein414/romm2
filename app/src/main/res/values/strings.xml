@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">romm2</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+    <string name="hello">Hello</string>
+    <string name="name">name</string>
+</resources>
